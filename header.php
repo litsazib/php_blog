@@ -1,6 +1,3 @@
-<?php 
-session_start();
- ?>
 <html lang="en" class="no-js">
 <head>
 	<title>Scan bangladesh</title>
