@@ -1,6 +1,11 @@
 <html lang="en" class="no-js">
 <head>
-	<title>Scan bangladesh</title>
+	<title>
+
+    
+  </title>
+
+
 	<meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="keywords" content="" />
@@ -10,7 +15,7 @@
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700,700italic,800' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/csse491?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css0270.css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css7e91?family=Dancing+Script:400,700' rel='stylesheet' type='text/css'>   
+    <link href='https://fonts.googleapis.com/css7e91?family=Dancing+Script:400,700' rel='stylesheet' type='text/css'>
     <!-- ######### CSS STYLES ######### -->	
   <link rel="stylesheet" href="css/reset.css" type="text/css" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" />

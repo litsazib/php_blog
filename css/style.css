@@ -1,5 +1,5 @@
 /* SAZIB CODE HEAR */
-.left {
+.blogimg {
   border: 2px solid #ccc;
   float: left;
   margin-left: 1px;
@@ -8,7 +8,7 @@
   overflow: hidden;
   width: 20%;
 }
-.left img {
+.blogimg img {
   width: 100%;
 }
 .dropdown span {
